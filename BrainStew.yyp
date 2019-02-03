@@ -39,6 +39,25 @@
     },
     "resources": [
         {
+            "Key": "1bcc260c-f55f-4bb3-842a-b20ac3d1d09c",
+            "Value": {
+                "id": "80ec2af9-acfc-46ce-8894-d1314e22ea94",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/Test\/Test.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "262cf667-5a0c-42f1-90c9-4e8cec8da168",
             "Value": {
                 "id": "3b87f930-7a9c-478f-ad60-99d31314edac",
@@ -191,6 +210,25 @@
             }
         },
         {
+            "Key": "80b5b9f4-ae9a-4757-8854-993a043aafc6",
+            "Value": {
+                "id": "2d8df459-d80f-4e00-b1bb-a155cc7de3ae",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "tilesets\/Brain_Set\/Brain_Set.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "83e70161-7a69-4c96-8d04-0bd8f2fb5b2d",
             "Value": {
                 "id": "ecd31e4f-30ee-47fc-9d30-09a8258cbf16",
@@ -248,6 +286,25 @@
             }
         },
         {
+            "Key": "a4b712d9-e015-409f-9da5-1be92af9637e",
+            "Value": {
+                "id": "6879bb89-25e7-45d1-ae60-7d057cd7e20d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprite\/sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a57f2c4c-823c-4250-a4d7-2421de03b1b2",
             "Value": {
                 "id": "ce251e77-a14f-4f8b-a9b5-25d81af7dfca",
@@ -283,6 +340,25 @@
                 ],
                 "resourcePath": "sprites\/Title_Background\/Title_Background.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b3824320-e87f-4a24-9e4e-13be6a9b44f5",
+            "Value": {
+                "id": "95cc1b83-747e-44d5-9ee9-c4a34de60711",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/b3824320-e87f-4a24-9e4e-13be6a9b44f5.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -362,6 +438,25 @@
             }
         },
         {
+            "Key": "f9eb7972-2576-414b-bbe5-4f6b338ed48a",
+            "Value": {
+                "id": "99080d1a-8733-401d-b6f4-a7de48edc2ca",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Brain_Tile_Set\/Brain_Tile_Set.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "fb908748-7908-4428-8d39-7372cbeeb441",
             "Value": {
                 "id": "9420f388-9d67-4139-b70a-56793a190170",
@@ -414,7 +509,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/sprite0\/sprite0.yy",
+                "resourcePath": "sprites\/Main_AllPoses\/Main_AllPoses.yy",
                 "resourceType": "GMSprite"
             }
         }
